@@ -1,7 +1,7 @@
 {
   "name": "parrot-jumping-drone",
   "version": "0.0.1",
-  "description": "Control the Parrot all the parrot jumping minidrones! Sumo drone, Night drone and Race mini drones! ",
+  "description": "Control all the Parrot jumping mini drones! Sumo drone, Night drone and Race mini drones! ",
   "main": "parrot-jumping-drone.js",
   "dependencies": {
     "js-message": "^1.0.5",
