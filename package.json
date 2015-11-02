@@ -1,0 +1,16 @@
+{
+  "name": "parrot-jumping-drone",
+  "version": "0.0.1",
+  "description": "",
+  "main": "parrot-jumping-drone.js",
+  "dependencies": {
+    "js-message": "^1.0.5",
+    "node-ipc": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Nozaki Miller",
+  "license": "DBAD"
+}
