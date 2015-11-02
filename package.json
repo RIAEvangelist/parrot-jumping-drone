@@ -1,7 +1,7 @@
 {
   "name": "parrot-jumping-drone",
   "version": "0.0.1",
-  "description": "",
+  "description": "Control the Parrot all the parrot jumping minidrones! Sumo drone, Night drone and Race mini drones! ",
   "main": "parrot-jumping-drone.js",
   "dependencies": {
     "js-message": "^1.0.5",
@@ -12,5 +12,24 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Brandon Nozaki Miller",
-  "license": "DBAD"
+  "license": "SEE LICENCE IN Licence.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RIAEvangelist/parrot-jumping-drone.git"
+  },
+  "keywords": [
+    "parrot",
+    "drone",
+    "mini",
+    "jumping",
+    "sumo",
+    "night",
+    "race",
+    "node",
+    "javascript"
+  ],
+  "bugs": {
+    "url": "https://github.com/RIAEvangelist/parrot-jumping-drone/issues"
+  },
+  "homepage": "https://github.com/RIAEvangelist/parrot-jumping-drone#readme"
 }
